@@ -11,7 +11,7 @@ const UserOnClick = () => {
 
   console.log({ loading, data, error, called });
 
-
+ 
 
   return (
     <div>
